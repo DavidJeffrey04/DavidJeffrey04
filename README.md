@@ -17,7 +17,7 @@ Currently pursuing **ECE @ NIT Calicut** with a **Minor in AI/ML**, I’m explor
 ---
 
 ### 🔬 Research Interests
-I’m currently exploring **adversarial robustness**, **trustworthy AI**, and **computer vision for medical imaging**, along with **Natural Language Processing (NLP)**.  
+I’m currently exploring **adversarial robustness**, **trustworthy AI**, **computer vision for medical imaging**, and **Natural Language Processing (NLP)**.  
 I’m always open to discussing research ideas, collaborations, and interdisciplinary projects.
 
 ---
@@ -33,7 +33,7 @@ I’m always open to discussing research ideas, collaborations, and interdiscipl
 ### 🌐 Connect with Me
 <p align="left">
   <a href="mailto:davidjeffreyedu@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/david-jeffrey-0b4b75287" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
