@@ -5,14 +5,20 @@
 
 ### 🧠 About Me
 I’m a passionate **AI and Deep Learning researcher** specializing in **Computer Vision** and **Medical Imaging**.  
-Currently pursuing **ECE @ NIT Calicut** with a **Minor in AI/ML**, I’m exploring **adversarial robustness** and **trustworthy neural networks** under the guidance of **Dr. Sudhish N. George**.
+Currently pursuing **ECE @ NIT Calicut** with a **Minor in AI/ML**, I’m exploring **adversarial robustness** and **trustworthy neural networks**
 
 ---
 
 ### 🧩 Current Focus
 - 🩻 Robust AI for medical image analysis  
-- 🤖 Deep learning architectures (CNNs, GRUs, Vision Transformers)  
-- 🔒 Black-box adversarial attacks and model interpretability  
+- 🤖 Deep learning architectures (CNNs, GRUs, Transformers)  
+- 🔒 Black-box adversarial attacks and model interpretability
+- Natural Language Processing (NLP)  
+---
+
+### 🔬 Research Interests
+I’m currently exploring **adversarial robustness**, **trustworthy AI**, and **computer vision for medical imaging**, along with **Natural Language Processing (NLP)**.  
+I’m always open to discussing research ideas, collaborations, and interdisciplinary projects.
 
 ---
 
@@ -26,8 +32,12 @@ Currently pursuing **ECE @ NIT Calicut** with a **Minor in AI/ML**, I’m explor
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:davidjeffreyedu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/david-jeffrey-0b4b75287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:davidjeffreyedu@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/david-jeffrey-0b4b75287" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
