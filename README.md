@@ -33,12 +33,13 @@ I’m always open to discussing research ideas, collaborations, and interdiscipl
 ### 🌐 Connect with Me
 <p align="left">
   <a href="mailto:davidjeffreyedu@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="gmail" />
   </a>
   <a href="https://linkedin.com/in/david-jeffrey-0b4b75287" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="linkedin" />
   </a>
 </p>
+
 
 ---
 
