@@ -36,7 +36,7 @@ I’m always open to discussing research ideas, collaborations, and interdiscipl
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" height="40" alt="gmail" />
   </a>
   <a href="https://linkedin.com/in/david-jeffrey-0b4b75287" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="linkedin" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
 
