@@ -14,6 +14,7 @@ Currently pursuing **ECE @ NIT Calicut** with a **Minor in AI/ML**, I’m explor
 - 🤖 Deep learning architectures (CNNs, GRUs, Transformers)  
 - 🔒 Black-box adversarial attacks and model interpretability
 - Natural Language Processing (NLP)  
+- Semantic Communication
 ---
 
 ### 🔬 Research Interests
